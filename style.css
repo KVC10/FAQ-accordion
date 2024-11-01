@@ -90,9 +90,9 @@ h1 {
 }
 
 @media screen and (max-width: 780px) {
-  /* body {
+  body {
     padding-block: 100px;
-  } */
+  }
   .container {
     padding: 1.5rem;
   }
@@ -106,7 +106,7 @@ h1 {
     width: 80%;
   }
   .background {
-    height: 23%;
+    height: 28%;
     background: url(./assets/images/background-pattern-mobile.svg);
     background-position: bottom;
   }
