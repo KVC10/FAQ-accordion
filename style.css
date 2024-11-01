@@ -37,7 +37,7 @@ body {
   background-color: var(--White);
   padding: 2rem;
   border-radius: 15px;
-  box-shadow: 0 0 50px -20px var(--Dark-purple);
+  box-shadow: 0 10px 50px rgba(140, 105, 145, 0.2);
 }
 .title {
   display: flex;
